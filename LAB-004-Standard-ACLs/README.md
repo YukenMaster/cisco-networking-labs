@@ -137,6 +137,6 @@ This laboratory demonstrates:
 
 ---
 
-## Result
+## Conclusion
 
-A Standard ACL was successfully implemented and validated. The laboratory demonstrated how Standard ACLs filter traffic based only on source addresses and highlighted their limitations when granular traffic control is required. These limitations justify the use of Extended ACLs in more advanced network security scenarios.
+A Standard ACL was successfully implemented and validated. This laboratory demonstrated how Standard ACLs filter traffic based solely on source IP addresses and highlighted their limitations when granular traffic control is required. These limitations emphasize the importance of Extended ACLs in more advanced network security scenarios.
