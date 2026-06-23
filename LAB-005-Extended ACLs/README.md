@@ -130,12 +130,29 @@ Ping traffic remained functional after the ACL implementation, proving that only
 * Layer 3 traffic analysis
 
 ---
+## Learning Outcomes
+
+After completing this lab, the following concepts were validated:
+
+- Extended ACL creation and deployment
+- Traffic filtering based on protocol and destination
+- HTTP access control
+- ACL placement best practices
+- Network verification using ICMP and HTTP
+- Cisco IOS CLI administration
+
+---
 
 ## Conclusion
 
-In this lab, an Extended ACL was implemented to control traffic between network segments. The solution successfully prevented Guest users from accessing the Web Server through HTTP while maintaining normal network connectivity for other protocols.
+In this lab, an Extended ACL was implemented to control traffic between network segments. The configured policy successfully blocked HTTP access from the Guest network to the Web Server while maintaining normal network connectivity for other protocols such as ICMP.
 
-This exercise reinforces important networking and cybersecurity concepts, including traffic filtering, access control enforcement, router-based security policies, and network verification techniques. These skills are essential for network administrators, cybersecurity analysts, and SOC professionals.
+Verification tests confirmed that:
+- The Guest PC could successfully ping the Web Server.
+- HTTP access from the Guest PC was denied.
+- Network communication remained operational for authorized traffic.
+
+This exercise reinforces important networking and cybersecurity concepts, including traffic filtering, access control, ACL placement, and network verification techniques. These skills are essential for network administrators, cybersecurity analysts, and Cisco certification candidates.
 
 ---
 
