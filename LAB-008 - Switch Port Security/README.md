@@ -112,7 +112,7 @@ The topology below shows the final state after the unauthorized device triggered
 
 The protected port was automatically disabled by the switch, preventing unauthorized network access.
 
-![Topology Security Violation](topology-security-violation.png)
+![Topology Security Violation](topology_security-violation.png)
 
 ---
 
