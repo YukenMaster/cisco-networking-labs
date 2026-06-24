@@ -154,11 +154,11 @@ The lab reinforces practical skills related to switch hardening, access control,
 
 * LAB-008-Port-Security.pkt
 * README.md
-* topology(7).png
-* pc1-ip-configuration(1).png
-* pc2-ip-configuration(1).png
-* port-security-configuration(1).png
-* secure-mac-address(1).png
-* port-security-status(1).png
-* security-violation(1).png
-* topology_security-violation(2).png
+* topology.png
+* pc1-ip-configuration.png
+* pc2-ip-configuration.png
+* port-security-configuration.png
+* secure-mac-address.png
+* port-security-status.png
+* security-violation.png
+* topology_security-violation.png
