@@ -8,7 +8,7 @@ Configure and validate Port Security on a Cisco Switch to restrict network acces
 
 ## Network Diagram
 
-![Topology](topology.png)
+![Topology](Topology.png)
 
 ---
 
